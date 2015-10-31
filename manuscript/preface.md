@@ -3,10 +3,9 @@ This is not a book about Open-Source Software.
 Open-source software has won as a movement. Even the most closed companies have adapted 
 
 
+Years ago, my lunchtime routine consisted of conversations regarding the software development lifecycle. My team was tasked with developing and supporting an infrastructure framework for over 300 developers. As a small team helping support a large company, there was always a seeming lack of time to complete the work needed to maintain development.
 
-Several years ago, I was having frequent conversations with a past colleague and good friend of mine about the subject of Open-source Software. In our role at the time, we were tasked with developing and supporting an infrastructure framework for over 300 developers. His focus was on the server-side, mine on the front-end.
-
-During our conversations, we began to grow an interest in how open-source projects run their show. We were specifically interested in some key parts:
+As our conversations progressed, we began to grow an interest in how open-source projects run their show. We were specifically interested in some key parts:
 
 1. Most open-source projects don't have dedicated, co-located teams. How do they cope?
 2. How do they get people to volunteer their time?
