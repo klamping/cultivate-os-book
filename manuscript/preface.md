@@ -1,3 +1,9 @@
+This is not a book about Open-Source Software.
+
+Open-source software has won as a movement. Even the most closed companies have adapted 
+
+
+
 Several years ago, I was having frequent conversations with a past colleague and good friend of mine about the subject of Open-source Software. In our role at the time, we were tasked with developing and supporting an infrastructure framework for over 300 developers. His focus was on the server-side, mine on the front-end.
 
 During our conversations, we began to grow an interest in how open-source projects run their show. We were specifically interested in some key parts:
